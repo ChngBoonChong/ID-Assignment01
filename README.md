@@ -1,4 +1,4 @@
-# ID-Assignment01
+# ID-Assignment 1 - Portfolio
 
 This project is to make a website featuring details and useful information about myself in a form of a website.
 
