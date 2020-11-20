@@ -8,17 +8,17 @@ This website is for hirers/ potential recruiters to find more information about 
 
 - As a User, I should be able to seamlessly read through the content and understand the subject better. In the end, I should be able to make a decision on contacting the subject.
   
-  Wireframe Link:
+Wireframe Link:
 
-  # Features
+# Features
 
-  Existing Features:
+Existing Features:
 
-  Features to Implement:
+Features to Implement:
 
-  # Technologies Used
-  - Visual Studio Code
-  - GitHub
+# Technologies Used
+- Visual Studio Code
+- GitHub
 
 # Testing
 
