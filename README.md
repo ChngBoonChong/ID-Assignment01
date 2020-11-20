@@ -1,3 +1,3 @@
 # ID-Assignment01
-<Insert short desription>
-<Blah Blah Blah>
+Insert short desription
+Blah Blah Blah
