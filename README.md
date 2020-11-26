@@ -22,7 +22,6 @@ Features to Implement:
   - Work Experience
   - Licenses & Certifications
   - Awards 
-  - Current Projects
   - Contact Me Form
 
 
