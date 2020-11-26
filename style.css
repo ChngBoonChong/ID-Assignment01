@@ -76,3 +76,26 @@
     background-color: gold;
     color: black;
 }
+
+.content {
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+
+}
+
+.educationhistory{
+    padding: 20px;
+    text-indent: 15px;
+    background: gold;
+    color: black;
+}
+
+.workexperience{
+    padding: 20px;
+    text-indent: 15px;
+    background: gold;
+    color: black;
+}
