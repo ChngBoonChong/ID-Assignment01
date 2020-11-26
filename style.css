@@ -7,24 +7,24 @@
     background: rgb(13, 13, 105);
     
 }
-body{
+.image{
     background-image: url("Image01.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
 }
 
-ul {
+.mainpage ul {
     float: top;
     text-align: right;
     list-style-type: none;
 }
 
-ul li {
+.mainpage ul li {
     display: inline-block;
 }
 
-ul li a{
+.mainpage ul li a{
     font-size: 20px;
     text-decoration: none;
     color: white;
@@ -32,7 +32,7 @@ ul li a{
     transition: 0.5s ease-in-out;
 }
 
-ul li a:hover{
+.mainpage ul li a:hover{
     background-color: gold;
     color: black;
 }
