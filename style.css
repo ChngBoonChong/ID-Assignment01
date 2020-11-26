@@ -83,7 +83,6 @@
 
 .container {
     display: flex;
-
 }
 
 .educationhistory{
@@ -99,3 +98,21 @@
     background: gold;
     color: black;
 }
+
+.certificateawards{
+    padding: 20px;
+    text-indent: 15px;
+    background: gold;
+    color: black;
+}
+
+.footer {
+    position: relative;
+    padding: 3px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(13, 13, 105);
+    color: white;
+    text-align: center;
+ }
