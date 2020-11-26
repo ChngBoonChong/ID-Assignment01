@@ -1,2 +1,7 @@
-/* test */
-/* test */
+*{
+    font-family: "Quicksand";
+}
+
+header{
+    background-image: url("Image01.jpg");
+}
