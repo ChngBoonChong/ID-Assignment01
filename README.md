@@ -1,4 +1,4 @@
-# ID-Assignment 1 - Portfolio
+# ID-Assignment 1 - Portfolio - S10208460
 
 This project is to make a website featuring details and useful information about myself in a form of a website.
 
@@ -41,6 +41,7 @@ Responsive Design
 
 Problems
 - Could not get smaller screen sizes to work.
+- Ran MarkUpValidationService and CSSValidationService, errors were in the normalize.css file.
 
 # Credits
 Content
