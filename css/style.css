@@ -1,7 +1,9 @@
+/*  For all ===============================*/
 *{
     font-family: "Quicksand";
 }
 
+/*  Main Page CSS ===============================*/
 .mainpage{
     padding: 8px;
     background: rgb(13, 13, 105);
@@ -77,6 +79,7 @@
     color: black;
 }
 
+/*  Work Education CSS ===============================*/
 .content {
     margin: 10px;
     padding: 30px;
@@ -103,6 +106,7 @@
     color: black;
 }
 
+/*  Footer for all webpages ===============================*/
 .footer {
     position: relative;
     padding: 3px;
@@ -114,6 +118,7 @@
     text-align: center;
  }
 
+ /*  About Me CSS ===============================*/
  .aboutme{
     padding-left: 20px;
     text-indent: 15px;
@@ -188,6 +193,7 @@
     color: black;
 }
 
+/*  Contact Me CSS ===============================*/
 .contactmeform {
     background-color: gold;
     padding: 20px ;
