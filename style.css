@@ -79,6 +79,7 @@
 
 .content {
     margin: 10px;
+    padding: 30px;
 }
 
 .container {
@@ -86,7 +87,7 @@
 }
 
 .educationhistory{
-    padding: 20px;
+    padding-left: 20px;
     text-indent: 15px;
     background: gold;
     color: black;
