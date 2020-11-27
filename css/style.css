@@ -181,3 +181,17 @@
     background-color: gold;
     color: black;
 }
+.contactme{
+    padding-left: 20px;
+    text-indent: 15px;
+    background: gold;
+    color: black;
+}
+
+.contactmeform {
+    background-color: gold;
+    padding: 20px ;
+    text-align: center;
+    font-size: 23px;
+    color: black; 
+  }

@@ -16,21 +16,27 @@
             <li><a href="contactme.html"> Contact Me </a></li>
         </ul>
     </div>
-    <div class="name">
-        <h1> CHNG BOON CHONG </h1>
-        <h2> PORTFOLIO </h2>
-    </div>
-
-    <div class="buttons">
-        <a href="aboutme.html" class="button"> ABOUT ME </a>
-        <a href="contactme.html" class="button"> CONTACT ME </a>
-    </div>
 </header>
 
 <body>
-    <div class="bgimage">
-    </div>
+    <h1 class="contactme"> Contact Me</h1>
+    <div>
+        <form class="contactmeform">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" required><br><br>
 
+            <label for="email">Business Email:</label><br>
+            <input type="text" id="email" name="email" required><br><br>
+
+            <label for="name">Description: (Optional)</label><br>
+            <input type="text" id="desc" name="desc"><br><br>
+
+            <input type="checkbox" id="confirm" name="confirm" value="confirm" required>
+            <label for="confirm"> I consent to sending my details over.</label><br><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
 </body>
 
 <footer>
