@@ -8,7 +8,8 @@ This website is for hirers/ potential recruiters to find more information about 
 
 - As a User, I should be able to seamlessly read through the content and understand the subject better. In the end, I should be able to make a decision on contacting the subject.
 
-- Wireframe PDF and .xd file located in submitted folder: "ID_S10208460_ChngBoonChong_Assg01_wireframe"
+- Wireframe PDF and .xd file located in submitted folder: "ID_S10208460_ChngBoonChong_Assg01_wireframe",
+also located in GitHub (Wireframe Folder).
   
 # Research
 
